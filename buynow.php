@@ -61,8 +61,7 @@
      <section class="home">
 
          <div class="content">
-             <h3>Hand Picked Book to your door.</h3>
-             <p>OpenBook helps you to find the libary containing the book you are looking for and get it delivered to your doorstep. </p>
+             <h3>Hand Picked Book to your doorstep.</h3>
              <a href="about.php" class="white-btn">discover more</a>
          </div>
 
