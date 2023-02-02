@@ -1,6 +1,9 @@
 # OPENBOOK
 OpenBook is a platform which helps the users to easily find E-books and download them as pdf. It also has the feature that the users can find out the nearest library were they can get the book they are looking for and make a direct pickup or get it delivered to their doorstep. The main motive behind OpenBook is to make books free of cost.
-# Tech Stack Used:
+
+## Registration Page
+<img src="https://user-images.githubusercontent.com/88069006/216254040-98273ed3-2aab-451e-98fc-5368fb9201c8.png">
+## Tech Stack Used:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
